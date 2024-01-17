@@ -1,0 +1,1 @@
+ npm install para descargar los node_modules y npm start para correr la aplicación
